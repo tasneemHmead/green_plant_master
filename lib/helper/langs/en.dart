@@ -1,0 +1,16 @@
+const Map<String, String> en = {
+  'Login': 'Login',
+  'Logout': 'Logout',
+  'signUp': 'Sign up',
+  'Email': 'Email',
+  'Password': 'Password',
+  'change_language': 'Change Language',
+  'add_planet': 'Add Plant',
+  'myـPlanet': 'My Plant',
+  'Add new Plant': 'Add new Plant',
+  'Plant Name': 'Plant Name',
+  'Sensor Number': 'Sensor Number',
+  'Register here!': 'Register here!',
+  'Sign in With Google': 'Sign in With Google',
+  'statistics': 'Statistics',
+};
